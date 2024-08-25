@@ -1,8 +1,6 @@
-## Hi I'm Shonta! A Front-end Software Engineer & Design Developer 👋
 ![Banner](https://github.com/ShonTechDev/shontechdev/blob/main/resizedbannergit.png)
-
 <!--**ShonTechDev/shontechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+## Hi I'm Shonta! A Front-end Software Engineer & Design Developer 👋
 - 🔭 I’m currently working on 🌱: JavaScript, React, Express, MongoDB, UX Research, UX/UI Design Certification
 - 👯 I love to collaborate on: Passion/Mission-Driven Applications and Projects! :-D
 - 🤝 LinkedIn: https://www.linkedin.com/in/shontap/👯‍♀
