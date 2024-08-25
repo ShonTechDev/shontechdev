@@ -9,4 +9,4 @@
 
 - 💬 Ask me about: FOOD! 🍽️ 100Devs Agency, Self-Teaching, Anime, Music, Polyglotism
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm also a Musician of 15+ Years, Clinician in Neuropsychology, & I'm Currently learning Japanese! Kon'nichiwa! ( こんにちは )  I Love it! 🩵📚!
+- ⚡ Fun fact: I'm also a Musician of 15+ Years, Clinician in Neuropsychology, & I'm Currently learning Japanese! Kon'nichiwa! こんにちは  I Love it! 🩵📚!
