@@ -1,5 +1,6 @@
 ## Hi I'm Shonta! A Front-end Software Engineer & Design Developer 👋
-![Banner](https://github.com/ShonTechDev/shontechdev/blob/main/resizedbannergit.png)]
+![Banner](https://github.com/ShonTechDev/shontechdev/blob/main/resizedbannergit.png)
+
 <!--**ShonTechDev/shontechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on 🌱: JavaScript, React, Express, MongoDB, UX Research, UX/UI Design Certification
@@ -8,4 +9,4 @@
 
 - 💬 Ask me about: FOOD! 🍽️ 100Devs Agency, Self-Teaching, Anime, Music, Polyglotism
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm also a Musician of 15+Years, Previously Neuropsychology Clinician, & Currently learning Japanese! Love it! 🩵📚
+- ⚡ Fun fact: I'm also a Musician of 15+ Years, Clinician in Neuropsychology, & I'm Currently learning Japanese! Kon'nichiwa! ( こんにちは )  I Love it! 🩵📚!
