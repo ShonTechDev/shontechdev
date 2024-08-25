@@ -1,5 +1,5 @@
 ## Hi I'm Shonta! A Front-end Software Engineer & Design Developer 👋
-![Banner](https://github.com/ShonTechDev/shontechdev/blob/main/1.png)
+![Banner](https://github.com/ShonTechDev/shontechdev/blob/main/1.png)](https://github.com/ShonTechDev/shontechdev/blob/main/resizedbannergit.png)
 <!--
 **ShonTechDev/shontechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
