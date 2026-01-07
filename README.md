@@ -1,5 +1,5 @@
-<!--![Banner](https://github.com/ShonTechDev/shontechdev/blob/main/resizedbannergit.png)-->
-![Banner](https://github.com/ShonTechDev/shontechdev/blob/main/cropped_general banner_updated.png)
+![Banner](https://github.com/ShonTechDev/shontechdev/blob/main/resizedbannergit.png)
+
 <!--**ShonTechDev/shontechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## Hi I'm Shonta! An aspiring Front-end Software Engineer & Design Developer 👋
 Daily, I work in Professional Web Development and Software Programming with JavaScript. My professional journey is as diverse as the clients I'm passionately dedicated to serving. I'm excited to dedicate my time and efforts to continuous growth, learning, and optimal user experiences--it's an absolute pleasure to aide in the creation of technical solutions and software that increase accessibility, innovation, and transformation meant to improve our daily lives 🌏 🫶 🥹.
