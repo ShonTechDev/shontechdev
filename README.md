@@ -8,11 +8,9 @@ I'm excited to dedicate my time and efforts to continuous growth, learning, and 
 
 I'm in the process of adding my most recent projects and completing my Professional Developer Portfolio 💼. Nice to meet you!
 
-- 🔭 I’m currently working inn 🌱: HTML, CSS, Intro JavaScript
-UX Research, UX/UI Design Certification [completed]
-- 👯 I love to collaborate on: Passion/Mission-Driven Applications and Projects! :-D
+- 📚Currently working in 🌱: HTML, CSS, JavaScript, React
+- 🎓Intro to Programming (Code The Dream) 🎓; UX Research (MA Degree), UX/UI Design Certification (Google) [completed]
+- 👥 I love to collaborate on: Passion/Mission-Driven Applications and Projects! :-D
 - 🤝 LinkedIn: https://www.linkedin.com/in/shontap/
-
-- 💬 Ask me about: FOOD! 🍽️ 100Devs Agency, Self-Teaching, Anime, Music, Polyglotism
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm also a Musician of 15+ Years, Clinician in Neuropsychology, & I'm Currently learning Japanese! Kon'nichiwa! こんにちは  I Love it! 🩵📚!
+- 💬 Ask me about: FOOD! 🍽️ , Code The Dream School, 100Devs Agency, Self-Teaching, Anime, Music, Polyglotism
+- ⚡ Fun fact: Musician of 15+ Years, Clinician in Neuropsychology, & I'm Currently learning Japanese! Kon'nichiwa! こんにちは 🇯🇵 I Love it! 🩵📚!
