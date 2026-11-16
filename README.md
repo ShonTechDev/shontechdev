@@ -2,7 +2,7 @@
 
 <!--**ShonTechDev/shontechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## Hi, I'm Shonta 👋 ✨ Passionately crafting impactful, user-centered digital solutions 💫
-Daily, I work in Professional Web Development and Software Programming in HTML, CSS, JavaScript, & React. 
+Daily, I work in Professional Web Development and Software Programming in HTML, CSS, JavaScript, React, & Node.js/Express.ja 
 
 I'm excited to dedicate my time and efforts to continuous growth, learning, and optimal user experiences--it's an absolute pleasure to aide in the creation of technical solutions and software that increase accessibility, innovation, and transformation meant to improve our daily lives 🌏 🫶 🥹.
 
